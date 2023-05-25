@@ -575,11 +575,12 @@ main {
     border-radius: 10px;
 }
 
-footer {
+.footer {
     padding: 10px;
     color: #444444;
     text-align: center;
     line-height: 30px;
-    height: 100px;
-    margin-top: 20px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
