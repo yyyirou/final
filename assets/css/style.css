@@ -574,13 +574,3 @@ main {
     height: 25px;
     border-radius: 10px;
 }
-
-footer {
-    background-color: #00375B;
-    height: 100px;
-    margin-top: 20px;
-}
-
-.txt {
-    color: white;
-}
