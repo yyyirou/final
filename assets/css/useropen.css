@@ -1,0 +1,128 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+.opening {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 150px;
+    color: black;
+}
+
+
+.titlehr {
+    position: relative;
+    border: #898986 solid;
+    top: 170px;
+}
+
+.usernav {
+    position: relative;
+    font-size: 35px;
+    top: 140px;
+
+}
+
+.usernav li {
+    margin: 30px;
+}
+
+.usermain {
+    text-decoration: underline;
+    color: black;
+    font-weight: 1000;
+    background-color: #88A8E9;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.userother {
+    color: black;
+    font-weight: 400;
+    background-color: #88A8E9;
+}
+
+.usernav li:hover {
+    background-color: #B1CCFF;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+
+.userinfor {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 200px;
+    font-size: 150px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.userinfor p {
+    margin: 30px;
+}
+
+
+.useredit {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 225px;
+    font-size: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.userwholeinfor {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 150px;
+    font-size: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
+    margin: 3%;
+    width: 90%;
+    height: 80%;
+    padding: 2%;
+}
+
+.userleft {
+    display: inline;
+    position: relative;
+    color: black;
+    font-weight: 550;
+    margin: 5% 0;
+    border-radius: 20px 20px;
+
+    text-align: right;
+    height: auto;
+    width: 200px;
+
+    padding: 1px;
+}
+
+.userright {
+    display: inline;
+    position: relative;
+    color: #2c2c2a;
+    font-weight: 430;
+    margin: 5% 5% 5% 0;
+    padding: 0 0 0 2%;
+    border-radius: 20px 20px;
+
+
+    height: auto;
+    width: 200px;
+
+    padding: 1px;
+}
+
+.usercon {
+    position: relative;
+    display: inline;
+
+    top: 10px;
+    font-size: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
+    margin: 3%;
+}
