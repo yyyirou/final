@@ -574,3 +574,12 @@ main {
     height: 25px;
     border-radius: 10px;
 }
+
+footer {
+    padding: 10px;
+    color: #444444;
+    text-align: center;
+    line-height: 30px;
+    height: 100px;
+    margin-top: 20px;
+}
